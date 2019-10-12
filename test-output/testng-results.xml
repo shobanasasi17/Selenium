@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9436" started-at="2019-10-12T10:13:23Z" finished-at="2019-10-12T10:13:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9436" started-at="2019-10-12T10:13:23Z" finished-at="2019-10-12T10:13:33Z">
+      <class name="learning.BlueLagoon">
+        <test-method status="PASS" signature="blueLag()[pri:0, instance:learning.BlueLagoon@e25b2fe]" name="blueLag" duration-ms="9387" started-at="2019-10-12T10:13:23Z" finished-at="2019-10-12T10:13:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blueLag -->
+      </class> <!-- learning.BlueLagoon -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
